@@ -27,3 +27,7 @@ Happy Code! 👨‍💻 Happy days!
 + Bugs 🐞
 + Deployment 🛸
 + Credits 💳
+
+## UX (User Experience)
+### Project goals
+The main goal of this project is to help the site's owner to get hired, also help recruiters to easily find his projects and skills, it should show a little bit Chinque's hobbies and a contact page with a text box for someone may leave a message.
