@@ -30,7 +30,7 @@ Happy Code! 👨‍💻 Happy days!
 
 ## UX (User Experience)
 ### Project goals
-The main goal of this project is to help the site's owner to get hired, also help recruiters to easily find his projects and skills, it should show a little bit Chinque's hobbies and a contact page with a text box for someone may leave a message.
+The main goal of this project is to help the site's owner to get hired, also help recruiters to easily find his projects and skills, there is a section about Chinque's hobbies as well as a contact page with a text box for someone leaves a message.
 
 ### User Goals
 - A website with a great user experience.
@@ -39,3 +39,12 @@ The main goal of this project is to help the site's owner to get hired, also hel
 - Send a message via contact form.
 - Icons that lead users to GitHUb and LinkedIn.
 - Responsive, it should work on desktops, tablets and mobile phones.
+
+### User Stories
+> "As an user, I expect a web site as simple as possible".  
+> "As an user, I expect to be able to use this tool to find out something about onwer's site, his abilities and projects".  
+> "As an user, I expect this website to be easy to navigate".  
+> "As an user, I want a website that will be useful to interact with".  
+> "As an user, I want a website with an enjoyable experience".  
+
+
