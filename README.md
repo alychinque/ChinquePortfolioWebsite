@@ -54,9 +54,19 @@ The main goal of this project is to help the site's owner to get hired, also hel
 
 ## User Requirements and Expectations
 #### Requirements:  
+- One page website
 - Tool where interested people can easily find his skills.
+- A fixed Navbar.
 - A section with information about him.
 - Project page with my projects well displayed.
 - A photo wall with photos of my hobbies in it.
-- Contact page with a form.
+- Contact page with a form.  
+
+#### Expectations:  
+- Section About with a brief text about Chinque
+- A progress bar with programming languages.
+- Menu compresses in small screens.
+- Projects linked to GitHub.
+- Icons takes the user to other pages(GitHub, LinkedIn).
+
 
