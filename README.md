@@ -40,11 +40,18 @@ The main goal of this project is to help the site's owner to get hired, also hel
 - Icons that lead users to GitHUb and LinkedIn.
 - Responsive, it should work on desktops, tablets and mobile phones.
 
-### User Stories
+### User Stories:
 > "As an user, I expect a web site as simple as possible".  
 > "As an user, I expect to be able to use this tool to find out something about onwer's site, his abilities and projects".  
 > "As an user, I expect this website to be easy to navigate".  
 > "As an user, I want a website that will be useful to interact with".  
 > "As an user, I want a website with an enjoyable experience".  
+
+### Site's Owner Goals:
+- Tool where interested people can easily find his skills.
+- A section with information about him.
+- Project page with my projects well displayed.
+- A photo wall with photos of my hobbies in it.
+- Contact page with a form.
 
 
