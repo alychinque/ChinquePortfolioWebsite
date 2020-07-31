@@ -54,4 +54,5 @@ The main goal of this project is to help the site's owner to get hired, also hel
 - A photo wall with photos of my hobbies in it.
 - Contact page with a form.
 
+## User Requirements and Expectations
 
