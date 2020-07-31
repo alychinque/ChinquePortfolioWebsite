@@ -48,11 +48,15 @@ The main goal of this project is to help the site's owner to get hired, also hel
 > "As an user, I want a website with an enjoyable experience".  
 
 ### Site's Owner Goals:
+- A website that is reference in design and responsiveness.
+- A tool that recruiters can quickly understand and navigate.
+- Contact form where people can get in touch.
+
+## User Requirements and Expectations
+#### Requirements:  
 - Tool where interested people can easily find his skills.
 - A section with information about him.
 - Project page with my projects well displayed.
 - A photo wall with photos of my hobbies in it.
 - Contact page with a form.
-
-## User Requirements and Expectations
 
