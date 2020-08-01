@@ -14,7 +14,7 @@ Happy Code! 👨‍💻 Happy days!
   - Site Owner Goals
   - User Requirements and Expectations 
   - Design Choices 🎨
-    * fonts
+    * Fonts
     * Icons
     * Colours
     * Styling
@@ -67,6 +67,9 @@ The main goal of this project is to help the site's owner to get hired, also hel
 - A progress bar with programming languages.
 - Menu compresses in small screens.
 - Projects linked to GitHub.
-- Icons takes the user to other pages(GitHub, LinkedIn).
+- Icons takes the user to other pages(GitHub and LinkedIn).
+
+## Design Choices 🎨
+The theme of this project is a website portfolio, So I chose a geometric image fixed on the background, it has green geometric forms with a dark background that remainds me of the movie **The Matrix**, with that rain falling down green characters and pictograms the "Matrix code".
 
 
