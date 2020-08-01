@@ -72,4 +72,7 @@ The main goal of this project is to help the site's owner to get hired, also hel
 ## Design Choices 🎨
 The theme of this project is a website portfolio, So I chose a geometric image fixed on the background, it has green geometric forms with a dark background that remainds me of the movie **The Matrix**, with that rain falling down green characters and pictograms the "Matrix code".
 
+#### Fonts:
+I chose to use the font **Space Mono** because I saw in a site of a company that teach people to code and I found it amazing.  
+It looks like lines of code.👨‍💻
 
