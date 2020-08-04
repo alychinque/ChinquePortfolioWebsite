@@ -1,6 +1,6 @@
 # Chinque Portfolio Website ©
 
-[image here]
+![multi platform](https://github.com/alychinque/ChinquePortfolioWebsite/blob/master/Wireframes/Resposiveness.png)
 
 Welcome to my Project of a website. Please be free to read this file(README) and browse my project.
 If you have any question or suggestion, please feel free to leave a message.  
