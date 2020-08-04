@@ -78,4 +78,5 @@ I chose to use the font **Space Mono** because I saw it in a site of a company t
 #### Icons:
 I used four icons in the about section to illustrate the ways that I delivery my websites which are: fast, intuitive, responsive and dynamic, also I used to icons in the footer that lead the user to GitHub and LinkedIn. The icons are from font-awesome.
 
-
+#### Colors:
+Based in a colors research and using this knowledge was figured out the power of the colors. Color affects your moods, behavior, and thoughts. Your reactions to colors are often deeply personal and rooted in your own experiences. The right combination of colors can increase sales/clients.
