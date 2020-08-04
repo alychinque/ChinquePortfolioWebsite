@@ -98,6 +98,15 @@ For this project I created wireframes using [Balsamiq Mockups](https://balsamiq.
 - Easy navigation
 - Trendy, intuitive design and user experience
 - Product visuals and descriptions
-- Form contact
+- Form contact  
 
+## Technologies Used: 👨‍💻
+* <a href="https://developer.mozilla.org/en-US/docs/Web/HTML">HTML</a>
+* <a href="https://developer.mozilla.org/en-US/docs/Web/CSS">CSS</a>  
+
+### Tools & Libraries:
+
+* <a href="https://git-scm.com/">Git</a>
+* <a href="https://getbootstrap.com/">Bootstrap</a>
+* <a href="https://fontawesome.com/icons?d=gallery">Font-Awesome</a>
 
