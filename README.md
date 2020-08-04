@@ -83,3 +83,8 @@ Based in a colors research and using this knowledge was figured out the power of
 
 - Primary: #01FB01 **'Vibrant Green'** I chose this colors as a primary color because one of the most positive aspects of green is its reference to inspiration, growth, freshness, safety and hope.
 - Secondary: #343A40 **'Dark Grey'** This color was chosen because it contrasts with the background image and it matches with the primary color.
+- Tertiary: #E9ECEF **'Light Grey'** This is a standard color for Jumbotron and almost all sections have this color as a background.
+
+
+
+
