@@ -2,8 +2,8 @@
 
 ![multi platform](https://github.com/alychinque/ChinquePortfolioWebsite/blob/master/Wireframes/Resposiveness.png)
 
-Welcome to my Project of a website. Please be free to read this file(README) and browse my project.
-If you have any question or suggestion, please feel free to leave a message.  
+Welcome to my website project. Please feel free to read this file(README) and browse my project.
+If you have any question or suggestion, please leave a message.  
 
 Happy Code! 👨‍💻 Happy days!
 
@@ -69,7 +69,7 @@ The main goal of this project is to help the site's owner to get hired, also hel
 - Icons takes the user to other pages(GitHub and LinkedIn).
 
 ## Design Choices 🎨
-The theme of this project is a website portfolio, So I chose a geometric image fixed on the background, it has green geometric forms with a dark background that remainds me of the movie **The Matrix**, with that rain falling down green characters and pictograms the "Matrix code".
+The theme of this project is a website portfolio, So I chose a geometric image fixed on the background, it has green geometric forms with a dark background that reminds me of the movie **The Matrix**, with that rain falling down green characters and pictograms the "Matrix code".
 
 #### Fonts:
 I chose to use the font **Space Mono** because I saw it in a site of a company that teach people to code and I found it amazing. It looks like lines of code.👨‍💻
@@ -89,7 +89,7 @@ Based in a colors research and using this knowledge was figured out the power of
 The image that I chose to use fixed in the background of the website is from [FreePik](https://www.freepik.com/). I manually resized the image using a tool called [PhotoPea](https://www.photopea.com/), having accurately sized images reduces the load time of the website.
 
 ## Wireframes: 🔧
-For this project I created wireframes using [Balsamiq Mockups](https://balsamiq.cloud/) and [Proto Prototypes](https://proto.io/). I started by creating some basics wireframes for desktop/mobile on Balsamiq just to have an idea. After that I built a prototype with more styling.
+For this project, I created wireframes using [Balsamiq Mockups](https://balsamiq.cloud/) and [Proto Prototypes](https://proto.io/). I started by creating some basics wireframes for desktop/mobile on Balsamiq just to have an idea. After that, I built a prototype with more styling.
 #### Check it out 🔍
 **Balsamiq:** [Desktop](https://github.com/alychinque/ChinquePortfolioWebsite/blob/master/Wireframes/Desktop%20Wireframe.png)/ [Mobile](https://github.com/alychinque/ChinquePortfolioWebsite/blob/master/Wireframes/Mobile%20Wireframe.png)  
 **Proto:** [Desktop](https://github.com/alychinque/ChinquePortfolioWebsite/blob/master/Wireframes/Wireframe%20desktop%20.pdf)/ [Mobile](https://github.com/alychinque/ChinquePortfolioWebsite/blob/master/Wireframes/Wireframe%20Mobile.pdf)  
