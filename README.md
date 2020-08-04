@@ -80,3 +80,5 @@ I used four icons in the about section to illustrate the ways that I delivery my
 
 #### Colors:
 Based in a colors research and using this knowledge was figured out the power of the colors. Color affects your moods, behavior, and thoughts. Your reactions to colors are often deeply personal and rooted in your own experiences. The right combination of colors can increase sales/clients.
+
+- Primary: #01FB01 **'Vibrant Green'** I chose this colors as a primary color because one of the most positive aspects of green is its reference to inspiration, growth, freshness, safety and hope.
