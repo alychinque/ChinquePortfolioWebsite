@@ -110,3 +110,32 @@ For this project, I created wireframes using [Balsamiq Mockups](https://balsamiq
 * <a href="https://getbootstrap.com/">Bootstrap</a>
 * <a href="https://fontawesome.com/icons?d=gallery">Font-Awesome</a>
 
+## Deployment: 🚀
+
+Chinque Portfolio will be developed on GitPod, using git and GitHub to host the repository.
+
+When deploying Chinque Portfolio using GitHub Pages the following steps were made:
+
+* Opened up <strong>GitHub</strong> in the browser.
+* Signed in using username and password.
+* Selected my <strong>repositories</strong>.
+* Navigated to <strong>'/alychinque/ChinquePortfolioWebsite'</strong>.
+* In the top navigation clicked <strong>'settings'</strong>.
+* Scrolled down to the <strong>GitHub Pages</strong> area. 
+* Selected <strong>'Master Branch'</strong> from the <strong>'Source'</strong> dropdown menu.
+* Clicked to confirm my selection.
+* Chinque Portfolio website now live on GitHub Pages.
+
+#### Running Chinque Portfolio website Locally
+
+Cloning Chinque Portfolio from GitHub:
+
+* Navigate to <strong>'/alychinque/ChinquePortfolioWebsite'</strong>.
+* Click the green <strong>'Clone or Download'</strong> button.
+* Copy the <strong>url</strong> in the dropdown box.
+* Using your favourite <strong>IDE</strong> open up your preferred <strong>terminal</strong>.
+* Navigate to your desired file location. 
+* Copy the following <strong>code</strong> and input it into your terminal to clone Chinque Portfolio website.
+ ```git
+  git clone https://github.com/alychinque/ChinquePortfolioWebsite.git
+   ```
