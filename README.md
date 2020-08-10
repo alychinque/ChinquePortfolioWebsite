@@ -1,9 +1,9 @@
 # Chinque Portfolio Website ©
 
-[image here]
+![multi platform](https://github.com/alychinque/ChinquePortfolioWebsite/blob/master/Wireframes/Resposiveness.png)
 
-Welcome to my Project of a website. Please be free to read this file(README) and browse my project.
-If you have any question or suggestion, please feel free to leave a message.  
+Welcome to my website project. Please feel free to read this file(README) and browse my project.
+If you have any question or suggestion, please leave a message.  
 
 Happy Code! 👨‍💻 Happy days!
 
@@ -69,7 +69,7 @@ The main goal of this project is to help the site's owner to get hired, also hel
 - Icons takes the user to other pages(GitHub and LinkedIn).
 
 ## Design Choices 🎨
-The theme of this project is a website portfolio, So I chose a geometric image fixed on the background, it has green geometric forms with a dark background that remainds me of the movie **The Matrix**, with that rain falling down green characters and pictograms the "Matrix code".
+The theme of this project is a website portfolio, So I chose a geometric image fixed on the background, it has green geometric forms with a dark background that reminds me of the movie **The Matrix**, with that rain falling down green characters and pictograms the "Matrix code".
 
 #### Fonts:
 I chose to use the font **Space Mono** because I saw it in a site of a company that teach people to code and I found it amazing. It looks like lines of code.👨‍💻
@@ -89,9 +89,53 @@ Based in a colors research and using this knowledge was figured out the power of
 The image that I chose to use fixed in the background of the website is from [FreePik](https://www.freepik.com/). I manually resized the image using a tool called [PhotoPea](https://www.photopea.com/), having accurately sized images reduces the load time of the website.
 
 ## Wireframes: 🔧
-For this project I created wireframes using [Balsamiq Mockups](https://balsamiq.cloud/) and [Proto Prototypes](https://proto.io/). I started by creating some basics wireframes for desktop/mobile on Balsamiq just to have an idea. After that I built a prototype with more styling.
+For this project, I created wireframes using [Balsamiq Mockups](https://balsamiq.cloud/) and [Proto Prototypes](https://proto.io/). I started by creating some basics wireframes for desktop/mobile on Balsamiq just to have an idea. After that, I built a prototype with more styling.
 #### Check it out 🔍
-**Balsamiq:** [Desktop](https://github.com/alychinque/ChinquePortfolioWebsite/blob/master/Wireframes/Desktop%20Wireframe.png) [Mobile](https://github.com/alychinque/ChinquePortfolioWebsite/blob/master/Wireframes/Mobile%20Wireframe.png)
-**Proto:** [Desktop](https://github.com/alychinque/ChinquePortfolioWebsite/blob/master/Wireframes/Wireframe%20desktop%20.pdf) [Mobile](https://github.com/alychinque/ChinquePortfolioWebsite/blob/master/Wireframes/Wireframe%20Mobile.pdf)
+**Balsamiq:** [Desktop](https://github.com/alychinque/ChinquePortfolioWebsite/blob/master/Wireframes/Desktop%20Wireframe.png)/ [Mobile](https://github.com/alychinque/ChinquePortfolioWebsite/blob/master/Wireframes/Mobile%20Wireframe.png)  
+**Proto:** [Desktop](https://github.com/alychinque/ChinquePortfolioWebsite/blob/master/Wireframes/Wireframe%20desktop%20.pdf)/ [Mobile](https://github.com/alychinque/ChinquePortfolioWebsite/blob/master/Wireframes/Wireframe%20Mobile.pdf)  
 
+## Features:
+- Easy navigation
+- Trendy, intuitive design and user experience
+- Product visuals and descriptions
+- Form contact  
 
+## Technologies Used: 👨‍💻
+* <a href="https://developer.mozilla.org/en-US/docs/Web/HTML">HTML</a>
+* <a href="https://developer.mozilla.org/en-US/docs/Web/CSS">CSS</a>  
+
+### Tools & Libraries:
+
+* <a href="https://git-scm.com/">Git</a>
+* <a href="https://getbootstrap.com/">Bootstrap</a>
+* <a href="https://fontawesome.com/icons?d=gallery">Font-Awesome</a>
+
+## Deployment: 🚀
+
+Chinque Portfolio will be developed on GitPod, using git and GitHub to host the repository.
+
+When deploying Chinque Portfolio using GitHub Pages the following steps were made:
+
+* Opened up <strong>GitHub</strong> in the browser.
+* Signed in using username and password.
+* Selected my <strong>repositories</strong>.
+* Navigated to <strong>'/alychinque/ChinquePortfolioWebsite'</strong>.
+* In the top navigation clicked <strong>'settings'</strong>.
+* Scrolled down to the <strong>GitHub Pages</strong> area. 
+* Selected <strong>'Master Branch'</strong> from the <strong>'Source'</strong> dropdown menu.
+* Clicked to confirm my selection.
+* Chinque Portfolio website now live on GitHub Pages.
+
+#### Running Chinque Portfolio website Locally
+
+Cloning Chinque Portfolio from GitHub:
+
+* Navigate to <strong>'/alychinque/ChinquePortfolioWebsite'</strong>.
+* Click the green <strong>'Clone or Download'</strong> button.
+* Copy the <strong>url</strong> in the dropdown box.
+* Using your favourite <strong>IDE</strong> open up your preferred <strong>terminal</strong>.
+* Navigate to your desired file location. 
+* Copy the following <strong>code</strong> and input it into your terminal to clone Chinque Portfolio website.
+ ```git
+  git clone https://github.com/alychinque/ChinquePortfolioWebsite.git
+   ```
