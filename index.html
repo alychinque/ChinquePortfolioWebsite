@@ -210,21 +210,48 @@
         <h5>Let's work together!</h5>
         <form>
             <div class="form-group">
-                <label for="FormControlInput">Nome:</label>
-                <input type="text" class="form-control" id="FormControlInput" placeholder="full name">
+                <label for="FormControl">Name:</label>
+                <input type="text" class="form-control is-invalid" id="FormControl" placeholder="name">
+                <div class="invalid-feedback">
+                    Please provide your name.
+                </div>
             </div>
             <div class="form-group">
-                <label for="FormControlInput">Email address</label>
-                <input type="email" class="form-control" id="FormControlInput" placeholder="name@example.com">
+                <label for="validation">Email address:</label>
+                <input type="text" class="form-control is-invalid" id="validation" placeholder="name@example.com" required>
+                <div class="invalid-feedback">
+                    Please provide your email.
+                </div>
             </div>
             <div class="form-group">
-                <label for="FormControlTextarea">Example textarea</label>
-                <textarea class="form-control" id="FormControlTextarea" rows="3"></textarea>
+                <label for="FormControl">Select a subject:</label>
+                <select class="form-control" id="FormControl">
+            <option>Subject</option>
+            <option>Website</option>
+            <option>Blog</option>
+            <option>eCommerce</option>
+            <option>WebPortfolio</option>
+            <option>Other</option>
+          </select>
+            </div>
+            <div class="form-group">
+                <label for="FormControltext">Message:</label>
+                <textarea class="form-control" id="FormControltext" rows="3"></textarea>
+            </div>
+            <div class="form-row text-center">
+                <div class="col">
+                    <button type="button" class="btn btn-success button" onclick='document.getElementById("demo").innerHTML = "Sent!"'>Send</button>
+                    <p id="demo"></p>
+                </div>
             </div>
         </form>
-        <div>
-            <p>Contact details</p>
-        </div>
+        <hr class="breakbown">
+
+        <p class="contact">
+            Alysson Chinque<br>
+            <i class="fas fa-at"></i>: alychinque@gmail.com<br>
+            <i class="fas fa-mobile-alt"></i>: 083 058 9362
+        </p>
     </div>
 
     <!-- --------------- FOOTER --------------- -->
