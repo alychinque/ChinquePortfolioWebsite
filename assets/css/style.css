@@ -7,3 +7,11 @@ body {
     -o-background-size: cover;
     font-family: 'Space Mono', monospace;
 }
+
+
+/* <!-- --------------- NAVBAR --------------- --> */
+
+.navbar-brand {
+    padding: 0;
+    margin-right: 0;
+}
