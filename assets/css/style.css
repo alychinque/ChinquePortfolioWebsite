@@ -32,3 +32,12 @@ body {
         width: 220px;
     }
 }
+
+
+/* <!-- --------------- PROJECTS --------------- --> */
+
+.project img {
+    border-radius: 50%;
+    transition: border-radius .3s;
+    width: 90%;
+}
