@@ -41,3 +41,9 @@ body {
     transition: border-radius .3s;
     width: 90%;
 }
+
+.project a img:hover {
+    border-radius: 0%;
+    opacity: 1;
+    box-shadow: 0 0px 20px black;
+}
