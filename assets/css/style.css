@@ -26,3 +26,9 @@ body {
         width: 320px;
     }
 }
+
+@media(max-width: 455px) {
+    .logo {
+        width: 220px;
+    }
+}
