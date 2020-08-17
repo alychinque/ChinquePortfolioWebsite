@@ -177,11 +177,11 @@ footer {
     }
 }
 
-.icons i {
+.icon i {
     color: #01FB01;
     font-size: 1.3em;
 }
 
-.icons i:hover {
+.icon i:hover {
     color: #fff;
 }
