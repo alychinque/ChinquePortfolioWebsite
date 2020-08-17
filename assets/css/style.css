@@ -45,6 +45,33 @@ body {
     color: #b9d5ba;
 }
 
+.intro {
+    line-height: 200%;
+}
+
+@media(max-width: 455px) {
+    .intro {
+        line-height: 0;
+    }
+}
+
+.hvr-wobble-to-bottom-right:hover,
+.hvr-wobble-skew:hover,
+.hvr-buzz:hover,
+.hvr-pulse-grow:hover,
+.hvr-wobble-bottom:hover,
+.hvr-wobble-top:hover {
+    color: #01FB01;
+}
+
+#home .jumbotron {
+    background-color: transparent;
+}
+
+.breakdown {
+    border-top: 3px solid #28a745;
+}
+
 
 /* <!-- --------------- PROJECTS --------------- --> */
 
