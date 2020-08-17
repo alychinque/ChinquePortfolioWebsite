@@ -155,3 +155,18 @@ h3 {
     max-width: 70%;
     text-align: left;
 }
+
+
+/* <!-- --------------- FOOTER --------------- --> */
+
+footer {
+    position: relative;
+    background-color: #343A40;
+    font-size: 20px;
+    height: 50px;
+    width: 100%;
+    color: dimgray;
+    padding-bottom: 0;
+    margin-bottom: 0;
+    bottom: 0;
+}
