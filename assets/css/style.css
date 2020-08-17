@@ -170,3 +170,18 @@ footer {
     margin-bottom: 0;
     bottom: 0;
 }
+
+@media(max-width: 455px) {
+    footer {
+        font-size: 13px;
+    }
+}
+
+.icons i {
+    color: #01FB01;
+    font-size: 1.3em;
+}
+
+.icons i:hover {
+    color: #fff;
+}
