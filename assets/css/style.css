@@ -131,3 +131,17 @@ h3 {
     opacity: 1;
     box-shadow: 0 0px 20px black;
 }
+
+
+/* <!-- --------------- HOBBIES --------------- --> */
+
+#photo {
+    clear: both;
+    line-height: 0;
+    column-count: 4;
+    column-gap: 0px;
+}
+
+#photo img {
+    width: 100%;
+}
