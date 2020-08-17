@@ -35,6 +35,17 @@ body {
 }
 
 
+/* <!-- --------------- HOME --------------- --> */
+
+#home {
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: #b9d5ba;
+}
+
+
 /* <!-- --------------- PROJECTS --------------- --> */
 
 .project img {
