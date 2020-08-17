@@ -145,3 +145,13 @@ h3 {
 #photo img {
     width: 100%;
 }
+
+
+/* <!-- --------------- CONTACT --------------- --> */
+
+.center-form {
+    padding-top: 10px;
+    margin: 0 auto;
+    max-width: 70%;
+    text-align: left;
+}
