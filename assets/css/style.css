@@ -73,6 +73,51 @@ body {
 }
 
 
+/* <!-- --------------- ABOUT --------------- --> */
+
+.row i {
+    font-size: 40px;
+}
+
+.icons {
+    margin-top: 50px;
+}
+
+.chinque-photo {
+    width: 100%;
+    text-align: center;
+}
+
+.text-about {
+    margin: 1em;
+}
+
+.rounded-circle {
+    height: 18em;
+    width: 18em;
+}
+
+.progress {
+    position: relative;
+    height: 25px;
+    margin-bottom: 30px;
+}
+
+.progress-type {
+    position: absolute;
+    left: 0px;
+    font-weight: 400;
+    padding: 3px 30px 2px 10px;
+    color: #fafafa;
+    background-color: rgba(25, 25, 25, 0.2);
+}
+
+h3 {
+    color: #ffc107;
+    padding-bottom: 30px;
+}
+
+
 /* <!-- --------------- PROJECTS --------------- --> */
 
 .project img {
