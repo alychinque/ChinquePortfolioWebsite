@@ -1,6 +1,6 @@
 # Chinque Portfolio Website ©
 
-![multi platform](https://github.com/alychinque/ChinquePortfolioWebsite/blob/master/Wireframes/Resposiveness.png)
+![multi platform](https://github.com/alychinque/ChinquePortfolioWebsite/blob/master/wireframes/resposiveness1.png)
 
 Welcome to my website project. Please feel free to read this file(README) and browse my project.
 If you have any question or suggestion, please leave a message.  
@@ -85,7 +85,7 @@ Based in a colors research and using this knowledge was figured out the power of
 - Tertiary: #E9ECEF **'Cultured'** This is a standard color for Jumbotron and almost all sections have this color as a background.
 - Progress bar: #FFC107 **'Mikado Yellow'** I chose this kind of yellow in the progress bar where I show the percentage of my skills in each area.
 
-🎨[Palette of colors](https://github.com/alychinque/ChinquePortfolioWebsite/blob/master/Wireframes/palette.png)
+![Palette of colors](https://github.com/alychinque/ChinquePortfolioWebsite/blob/master/wireframes/palette.png)
 
 #### Background:
 The image that I chose to use fixed in the background of the website is from [FreePik](https://www.freepik.com/). I manually resized the image using a tool called [PhotoPea](https://www.photopea.com/), having accurately sized images reduces the load time of the website.
