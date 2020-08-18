@@ -45,8 +45,9 @@ body {
     color: #b9d5ba;
 }
 
-.intro {
+div .intro {
     line-height: 200%;
+    font-size: 30px;
 }
 
 @media(max-width: 455px) {
