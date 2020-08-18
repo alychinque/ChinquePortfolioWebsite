@@ -136,10 +136,21 @@ h3 {
     width: 90%;
 }
 
-.project a img:hover {
+.project a img:hover,
+span:hover {
     border-radius: 0%;
     opacity: 1;
     box-shadow: 0 0px 20px black;
+}
+
+#projects span {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    color: #fff;
+    background-color: rgba(8, 8, 8, 0.6);
+    border-radius: 15px;
 }
 
 
