@@ -80,10 +80,12 @@ I used four icons in the about section to illustrate the ways that I delivery my
 #### Colors:
 Based in a colors research and using this knowledge was figured out the power of the colors. Color affects your moods, behavior, and thoughts. Your reactions to colors are often deeply personal and rooted in your own experiences. The right combination of colors can increase sales/clients.
 
-- Primary: #01FB01 **'Vibrant Green'** I chose this colors as a primary color because one of the most positive aspects of green is its reference to inspiration, growth, freshness, safety and hope.
-- Secondary: #343A40 **'Dark Grey'** This color was chosen because it contrasts with the background image and it matches with the primary color.
-- Tertiary: #E9ECEF **'Light Grey'** This is a standard color for Jumbotron and almost all sections have this color as a background.
-- Progress bar: #FFC107 **'Gold'** I chose this kind of yellow in the progress bar where I show the percentage of my skills in each area.
+- Primary: #01FB01 **'Electric Green'** I chose this colors as a primary color because one of the most positive aspects of green is its reference to inspiration, growth, freshness, safety and hope.
+- Secondary: #343A40 **'Gunmetal'** This color was chosen because it contrasts with the background image and it matches with the primary color.
+- Tertiary: #E9ECEF **'Cultured'** This is a standard color for Jumbotron and almost all sections have this color as a background.
+- Progress bar: #FFC107 **'Mikado Yellow'** I chose this kind of yellow in the progress bar where I show the percentage of my skills in each area.
+
+🎨[Palette of colors](https://github.com/alychinque/ChinquePortfolioWebsite/blob/master/Wireframes/palette.png)
 
 #### Background:
 The image that I chose to use fixed in the background of the website is from [FreePik](https://www.freepik.com/). I manually resized the image using a tool called [PhotoPea](https://www.photopea.com/), having accurately sized images reduces the load time of the website.
