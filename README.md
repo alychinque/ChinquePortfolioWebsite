@@ -197,3 +197,8 @@ Cloning Chinque Portfolio from GitHub:
  ```git
   git clone https://github.com/alychinque/ChinquePortfolioWebsite.git
    ```
+## Credits: 💳
+
+* <a href="https://www.crazyegg.com/blog/colors-proven-to-boost-sales/">Colour Research</a>
+* <a href="https://coolors.co/">Coolors.co</a>
+* <a href="https://chrome.google.com/webstore/detail/unicorn-revealer/lmlkphhdlngaicolpmaakfmhplagoaln?hl=en-GB">Unicorn Revealer</a>
