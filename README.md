@@ -146,6 +146,12 @@ As this was my first project I followed the wireframes that I had created, thank
 * <strong>Result</strong> 🏆: The result is an enjoyable experience while navigate throughout the site.
 * <strong>Verdict</strong> ✅: This test passed based on the expected behaviour. 
 
+<strong>Form Validation - </strong>
+* <strong>Plan</strong> 📝: During planning for this project I knew that I needed to include some sort of form validation on the contact form. Including the built in ‘required’ attribute in HTML5.
+* <strong>Implementation</strong> 🏭:  During implementation of this feature adding the ‘required’ attribute to the form was very simple and worked as expected. This led me to a solution and the contact fom will not send if a specific hidden input field has content.
+* <strong>Result</strong> 🏆:  The feature works as expected after testing.
+* <strong>Verdict</strong> ✅: This test passed based on the expected behaviour.
+
 ## Deployment: 🚀
 
 Chinque Portfolio will be developed on GitPod, using git and GitHub to host the repository.
