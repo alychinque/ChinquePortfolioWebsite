@@ -1,4 +1,8 @@
     @import url('https://fonts.googleapis.com/css2?family=Space+Mono:wght@700&display=swap');
+    html {
+        scroll-behavior: smooth;
+    }
+    
     body {
         background: url("../images/geometric.jpg") no-repeat bottom right fixed;
         background-size: cover;
@@ -7,7 +11,6 @@
         -o-background-size: cover;
         font-family: 'Space Mono', monospace;
         text-align: center;
-        scroll-behavior: smooth;
     }
     /* NAVBAR */
     
