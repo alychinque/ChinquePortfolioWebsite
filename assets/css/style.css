@@ -117,7 +117,7 @@
     .project a .project-img:hover {
         border-radius: 0%;
         opacity: 1;
-        box-shadow: 0 0px 20px black;
+        box-shadow: 20px 0px 20px black;
     }
     
     .project-text {
@@ -127,7 +127,7 @@
         transform: translate(-50%, -50%);
         color: #fff;
         background-color: rgba(8, 8, 8, 0.6);
-        border-radius: 15px;
+        border-radius: 1rem;
     }
     /* HOBBIES */
     
