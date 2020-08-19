@@ -158,6 +158,11 @@ As this was my first project I followed the wireframes that I had created, thank
 
 During the development process for this project I was fortunate to not have to battle with many annoying bugs. Listed below are a few issues that i faced and overcame during the course of the project.
 
+Progress bar       :
+* <strong>Bug</strong> 🕷: The progress bar didn't styled as expected.
+* <strong>Fix</strong> 🔧: I found another person with the same problem on slack group.
+* <strong>Verdict</strong> ✅: This bug was squashed thanks to help from the slack group at Code Institute!
+
 ## Deployment: 🚀
 
 Chinque Portfolio will be developed on GitPod, using git and GitHub to host the repository.
