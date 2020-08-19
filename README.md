@@ -132,6 +132,12 @@ As this was my first project I followed the wireframes that I had created, thank
 * <strong>Result</strong> 🏆: The Responsiveness of the site works as expected, no elements or content escape their boundaries or are hard to see on any device.
 * <strong>Verdict</strong> ✅: This test has passed and therefore the site is responsive.
 
+<strong>Design -</strong>
+* <strong>Plan</strong> 📝:The overall design of the site had to be bold and use exciting colours and imagery. Using vibrant colours like green and orange not only provides great contrast but work well for provoking emotional responses. Using sites like LINK allowed me to search for the perfect colours.
+* <strong>Implementation</strong> 🏭: Adding these colours easily use these colours in multiple places at ease and therefore testing quickly and efficiently. 
+* <strong>Result</strong> 🏆: The colours chosen work well for the theme of the site.
+* <strong>Verdict</strong> ✅: This test has passed and the overall colour scheme fits well for the purpose of the site.
+
 ## Deployment: 🚀
 
 Chinque Portfolio will be developed on GitPod, using git and GitHub to host the repository.
