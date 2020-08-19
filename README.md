@@ -152,6 +152,12 @@ As this was my first project I followed the wireframes that I had created, thank
 * <strong>Result</strong> 🏆:  The feature works as expected after testing.
 * <strong>Verdict</strong> ✅: This test passed based on the expected behaviour.
 
+## Bugs: 🐞
+
+#### Bugs During Development:
+
+During the development process for this project I was fortunate to not have to battle with many annoying bugs. Listed below are a few issues that i faced and overcame during the course of the project.
+
 ## Deployment: 🚀
 
 Chinque Portfolio will be developed on GitPod, using git and GitHub to host the repository.
