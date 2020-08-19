@@ -108,19 +108,19 @@
     }
     /* PROJECTS */
     
-    .project img {
+    .project-img {
         border-radius: 50%;
         transition: border-radius .3s;
         width: 90%;
     }
     
-    .project a img:hover {
+    .project a .project-img:hover {
         border-radius: 0%;
         opacity: 1;
         box-shadow: 0 0px 20px black;
     }
     
-    #projects span {
+    .project-text {
         position: absolute;
         top: 50%;
         left: 50%;
