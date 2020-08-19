@@ -163,6 +163,11 @@ Progress bar       :
 * <strong>Fix</strong> 🔧: I found another person with the same problem on slack group.
 * <strong>Verdict</strong> ✅: This bug was squashed thanks to help from the slack group at Code Institute!
 
+Unexpected horizontal scroll for entire page:
+* <strong>Bug</strong> 🕷: A few elements were escaping the boundaries of the website and were causing an unwanted horizontal scroll.
+* <strong>Fix</strong> 🔧: Using Unicorn Revealer (See credits for link) I was easily able to find the offending element and fix accordingly. 
+* <strong>Verdict</strong> ✅: This bug was squashed easily and meant I could continue to progress.
+
 ## Deployment: 🚀
 
 Chinque Portfolio will be developed on GitPod, using git and GitHub to host the repository.
