@@ -119,6 +119,10 @@ As this was my first project I followed the wireframes that I had created, thank
 
 ## Testing: 🔌
 #### Testing Stories:
+* I realised that the colours I had chose clashed too much in terms of contrast, I then used coolors.co to select a new color scheme and implemented the new colours.
+* I added some inline style in my index.html, then I moved all styles to style.css.
+* I was informed that the owner's website would like to show his abilitilies, I then created a progress bar with the technologies that he knows.
+* I Initially used "pixels" as unit of measurement then I was Informed that "rem" is the right one then I changed the units. 
 
 ## Deployment: 🚀
 
