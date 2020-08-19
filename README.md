@@ -1,6 +1,6 @@
 # Chinque Portfolio Website ©
 
-![multi platform](https://github.com/alychinque/ChinquePortfolioWebsite/blob/master/wireframes/resposiveness1.png)
+![multi platform](https://github.com/alychinque/ChinquePortfolioWebsite/blob/master/wireframes/resposiveness1.png "multi platform")
 
 Welcome to my website project. Please feel free to read this file(README) and browse my project.
 If you have any question or suggestion, please leave a message.  
@@ -93,8 +93,8 @@ The image that I chose to use fixed in the background of the website is from [Fr
 ## Wireframes: 🔧
 For this project, I created wireframes using [Balsamiq Mockups](https://balsamiq.cloud/) and [Proto Prototypes](https://proto.io/). I started by creating some basics wireframes for desktop/mobile on Balsamiq just to have an idea. After that, I built a prototype with more styling.
 #### Check it out 🔍
-**Balsamiq:** [Desktop](https://github.com/alychinque/ChinquePortfolioWebsite/blob/master/Wireframes/Desktop%20Wireframe.png)/ [Mobile](https://github.com/alychinque/ChinquePortfolioWebsite/blob/master/Wireframes/Mobile%20Wireframe.png)  
-**Proto:** [Desktop](https://github.com/alychinque/ChinquePortfolioWebsite/blob/master/Wireframes/Wireframe%20desktop%20.pdf)/ [Mobile](https://github.com/alychinque/ChinquePortfolioWebsite/blob/master/Wireframes/Wireframe%20Mobile.pdf)  
+**Balsamiq:** [Desktop](https://github.com/alychinque/ChinquePortfolioWebsite/blob/master/wireframes/desktop-wireframe.png"Desktop")/ [Mobile](https://github.com/alychinque/ChinquePortfolioWebsite/blob/master/wireframes/mobile-wireframe.png"Mobile")  
+**Proto:** [Desktop](https://github.com/alychinque/ChinquePortfolioWebsite/blob/master/wireframes/wireframe-desktop.pdf"Desktop.pdf")/ [Mobile](https://github.com/alychinque/ChinquePortfolioWebsite/blob/master/wireframes/wireframe-mobile.pdf"Mobile")  
 
 ## Features:
 - Easy navigation
