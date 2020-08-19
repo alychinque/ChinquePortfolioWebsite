@@ -23,6 +23,8 @@ Happy Code! 👨‍💻 Happy days!
 + Wireframes 👨‍🔧
 + Features 🤖
 + Technologies Used 👀
++ Planning 📐
++ Testing 🔌
 + Bugs 🐞
 + Deployment 🛸
 + Credits 💳
@@ -40,11 +42,11 @@ The main goal of this project is to help the site's owner to get hired, also hel
 - Responsive, it should work on desktops, tablets and mobile phones.
 
 ### User Stories:
-> "As an user, I expect a web site as simple as possible".  
-> "As an user, I expect to be able to use this tool to find out something about onwer's site, his abilities and projects".  
-> "As an user, I expect this website to be easy to navigate".  
-> "As an user, I want a website that will be useful to interact with".  
-> "As an user, I want a website with an enjoyable experience".  
+- "As an user, I expect a web site as simple as possible".  
+- "As an user, I expect to be able to use this tool to find out something about onwer's site, his abilities and projects".  
+- "As an user, I expect this website to be easy to navigate".  
+- "As an user, I want a website that will be useful to interact with".  
+- "As an user, I want a website with an enjoyable experience".  
 
 ### Site's Owner Goals:
 - A website that is reference in design and responsiveness.
@@ -112,6 +114,60 @@ For this project, I created wireframes using [Balsamiq Mockups](https://balsamiq
 * <a href="https://getbootstrap.com/">Bootstrap</a>
 * <a href="https://fontawesome.com/icons?d=gallery">Font-Awesome</a>
 
+## Planning: 📐
+As this was my first project I followed the wireframes that I had created, thanks to the layout being organised in the wireframes I was able to select what feature to work on, organise how I was going to approach each section and follow my testing guide to check that it had been implemented correctly and works as expected. In future projects I would look to include more automated testing to help me with my tests.
+
+## Testing: 🔌
+#### Testing Stories:
+* I realised that the colours I had chose clashed too much in terms of contrast, I then used coolors.co to select a new color scheme and implemented the new colours.
+* I added some inline style in my index.html, then I moved all styles to style.css.
+* I was informed that the owner's website would like to show his abilitilies, I then created a progress bar with the technologies that he knows.
+* I Initially used "pixels" as unit of measurement then I was Informed that "rem" is the right one then I changed the units. 
+
+### Overall:
+
+<strong>Responsiveness - </strong>
+* <strong>Plan</strong> 📝: I knew that this project needed to be FULLY responsive and mobile friendly therefore the obvious option to use Bootstrap as this HTML Framework I'm most comfortable using. Testing using dev-tools throughout and also a final test of the entire site after completion.
+* <strong>Implementation</strong> 🏭: Throughout writing my HTML code making sure to use appropriate bootstrap class modifiers to provide correct breakpoints for the content. Testing breakpoints was relatively simple thanks to the easy to use Bootstrap, i only really modified a few breakpoints after writing the majority of my HTML.
+* <strong>Result</strong> 🏆: The Responsiveness of the site works as expected, no elements or content escape their boundaries or are hard to see on any device.
+* <strong>Verdict</strong> ✅: This test has passed and therefore the site is responsive.
+
+<strong>Design -</strong>
+* <strong>Plan</strong> 📝:The overall design of the site had to be bold and use exciting colours and imagery. Using vibrant colours like green and orange not only provides great contrast but work well for provoking emotional responses. Using sites like LINK allowed me to search for the perfect colours.
+* <strong>Implementation</strong> 🏭: Adding these colours easily use these colours in multiple places at ease and therefore testing quickly and efficiently. 
+* <strong>Result</strong> 🏆: The colours chosen work well for the theme of the site.
+* <strong>Verdict</strong> ✅: This test has passed and the overall colour scheme fits well for the purpose of the site.
+
+### Features:
+
+<strong>Easy navigation - </strong>
+* <strong>Plan</strong> 📝: The plan was create a website easy to navigate.
+* <strong>Implementation</strong> 🏭: I created the web site in just one page and with a fixed navbar at the top, so that, the user can easily click in any section(home, about, projects, hobbies and contact) and jump to the section. Additionally and thanks to the mentor I added a Scroll-behaviour smooth.
+* <strong>Result</strong> 🏆: The result is an enjoyable experience while navigate throughout the site.
+* <strong>Verdict</strong> ✅: This test passed based on the expected behaviour. 
+
+<strong>Form Validation - </strong>
+* <strong>Plan</strong> 📝: During planning for this project I knew that I needed to include some sort of form validation on the contact form. Including the built in ‘required’ attribute in HTML5.
+* <strong>Implementation</strong> 🏭:  During implementation of this feature adding the ‘required’ attribute to the form was very simple and worked as expected. This led me to a solution and the contact fom will not send if a specific hidden input field has content.
+* <strong>Result</strong> 🏆:  The feature works as expected after testing.
+* <strong>Verdict</strong> ✅: This test passed based on the expected behaviour.
+
+## Bugs: 🐞
+
+#### Bugs During Development:
+
+During the development process for this project I was fortunate to not have to battle with many annoying bugs. Listed below are a few issues that i faced and overcame during the course of the project.
+
+Progress bar       :
+* <strong>Bug</strong> 🕷: The progress bar didn't styled as expected.
+* <strong>Fix</strong> 🔧: I found another person with the same problem on slack group.
+* <strong>Verdict</strong> ✅: This bug was squashed thanks to help from the slack group at Code Institute!
+
+Unexpected horizontal scroll for entire page:
+* <strong>Bug</strong> 🕷: A few elements were escaping the boundaries of the website and were causing an unwanted horizontal scroll.
+* <strong>Fix</strong> 🔧: Using Unicorn Revealer (See credits for link) I was easily able to find the offending element and fix accordingly. 
+* <strong>Verdict</strong> ✅: This bug was squashed easily and meant I could continue to progress.
+
 ## Deployment: 🚀
 
 Chinque Portfolio will be developed on GitPod, using git and GitHub to host the repository.
@@ -141,3 +197,8 @@ Cloning Chinque Portfolio from GitHub:
  ```git
   git clone https://github.com/alychinque/ChinquePortfolioWebsite.git
    ```
+## Credits: 💳
+
+* <a href="https://www.crazyegg.com/blog/colors-proven-to-boost-sales/">Colour Research</a>
+* <a href="https://coolors.co/">Coolors.co</a>
+* <a href="https://chrome.google.com/webstore/detail/unicorn-revealer/lmlkphhdlngaicolpmaakfmhplagoaln?hl=en-GB">Unicorn Revealer</a>
