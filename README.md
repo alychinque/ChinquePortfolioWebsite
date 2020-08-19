@@ -23,6 +23,8 @@ Happy Code! 👨‍💻 Happy days!
 + Wireframes 👨‍🔧
 + Features 🤖
 + Technologies Used 👀
++ Planning 📐
++ Testing 🔌
 + Bugs 🐞
 + Deployment 🛸
 + Credits 💳
@@ -111,6 +113,12 @@ For this project, I created wireframes using [Balsamiq Mockups](https://balsamiq
 * <a href="https://git-scm.com/">Git</a>
 * <a href="https://getbootstrap.com/">Bootstrap</a>
 * <a href="https://fontawesome.com/icons?d=gallery">Font-Awesome</a>
+
+## Planning: 📐
+As this was my first project I followed the wireframes that I had created, thanks to the layout being organised in the wireframes I was able to select what feature to work on, organise how I was going to approach each section and follow my testing guide to check that it had been implemented correctly and works as expected. In future projects I would look to include more automated testing to help me with my tests.
+
+## Testing: 🔌
+#### Testing Stories:
 
 ## Deployment: 🚀
 
