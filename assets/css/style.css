@@ -35,7 +35,7 @@
     
     div .intro {
         line-height: 200%;
-        font-size: 30px;
+        font-size: 1.875rem;
     }
     
     .hvr-wobble-to-bottom-right:hover,
@@ -52,16 +52,16 @@
     }
     
     .breakdown {
-        border-top: 3px solid #28a745;
+        border-top: 0.1875rem solid #28a745;
     }
     /* ABOUT */
     
     .row i {
-        font-size: 40px;
+        font-size: 2.5rem;
     }
     
     .icons {
-        margin-top: 50px;
+        margin-top: 2.5rem;
     }
     
     .chinque-photo {
@@ -70,18 +70,18 @@
     }
     
     .text-about {
-        margin: 1em;
+        margin: 1rem;
     }
     
     .rounded-circle {
-        height: 18em;
-        width: 18em;
+        height: 18rem;
+        width: 18rem;
     }
     
     .progress {
         position: relative;
         height: 25px;
-        margin-bottom: 30px;
+        margin-bottom: 1.875rem
     }
     
     .progress-type {
@@ -94,7 +94,8 @@
     
     h3 {
         color: #ffc107;
-        padding-bottom: 30px;
+        font-size: 1rem;
+        padding-bottom: 0.625rem;
     }
     
     .responsive-icon {
@@ -137,7 +138,7 @@
     /* CONTACT */
     
     .center-form {
-        padding-top: 10px;
+        padding-top: 0.625rem;
         margin: 0 auto;
         max-width: 70%;
         text-align: left;
@@ -147,7 +148,7 @@
     footer {
         position: relative;
         background-color: #343A40;
-        font-size: 13px;
+        font-size: 0.8125rem;
         height: 50px;
         width: 100%;
         color: dimgray;
@@ -158,7 +159,7 @@
     
     .icon i {
         color: #01FB01;
-        font-size: 1.3em;
+        font-size: 1.3rem;
     }
     
     .icon i:hover {
@@ -180,6 +181,12 @@
     
     @media(min-width: 455px) {
         footer {
-            font-size: 20px;
+            font-size: 1rem;
+        }
+    }
+    
+    @media(min-width: 455px) {
+        h3 {
+            font-size: 1.875rem;
         }
     }
