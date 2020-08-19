@@ -42,11 +42,11 @@ The main goal of this project is to help the site's owner to get hired, also hel
 - Responsive, it should work on desktops, tablets and mobile phones.
 
 ### User Stories:
-> "As an user, I expect a web site as simple as possible".  
-> "As an user, I expect to be able to use this tool to find out something about onwer's site, his abilities and projects".  
-> "As an user, I expect this website to be easy to navigate".  
-> "As an user, I want a website that will be useful to interact with".  
-> "As an user, I want a website with an enjoyable experience".  
+- "As an user, I expect a web site as simple as possible".  
+- "As an user, I expect to be able to use this tool to find out something about onwer's site, his abilities and projects".  
+- "As an user, I expect this website to be easy to navigate".  
+- "As an user, I want a website that will be useful to interact with".  
+- "As an user, I want a website with an enjoyable experience".  
 
 ### Site's Owner Goals:
 - A website that is reference in design and responsiveness.
