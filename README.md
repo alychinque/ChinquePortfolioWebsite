@@ -124,6 +124,14 @@ As this was my first project I followed the wireframes that I had created, thank
 * I was informed that the owner's website would like to show his abilitilies, I then created a progress bar with the technologies that he knows.
 * I Initially used "pixels" as unit of measurement then I was Informed that "rem" is the right one then I changed the units. 
 
+### Overall:
+
+<strong>Responsiveness - </strong>
+* <strong>Plan</strong> 📝: I knew that this project needed to be FULLY responsive and mobile friendly therefore the obvious option to use Bootstrap as this HTML Framework I'm most comfortable using. Testing using dev-tools throughout and also a final test of the entire site after completion.
+* <strong>Implementation</strong> 🏭: Throughout writing my HTML code making sure to use appropriate bootstrap class modifiers to provide correct breakpoints for the content. Testing breakpoints was relatively simple thanks to the easy to use Bootstrap, i only really modified a few breakpoints after writing the majority of my HTML.
+* <strong>Result</strong> 🏆: The Responsiveness of the site works as expected, no elements or content escape their boundaries or are hard to see on any device.
+* <strong>Verdict</strong> ✅: This test has passed and therefore the site is responsive.
+
 ## Deployment: 🚀
 
 Chinque Portfolio will be developed on GitPod, using git and GitHub to host the repository.
