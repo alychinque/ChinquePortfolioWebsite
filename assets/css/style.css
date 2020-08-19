@@ -20,20 +20,8 @@
     }
     
     .logo {
-        width: 350px;
+        width: 220px;
         margin-left: 0;
-    }
-    
-    @media(max-width: 769px) {
-        .logo {
-            width: 320px;
-        }
-    }
-    
-    @media(max-width: 455px) {
-        .logo {
-            width: 220px;
-        }
     }
     /* HOME */
     
@@ -48,12 +36,6 @@
     div .intro {
         line-height: 200%;
         font-size: 30px;
-    }
-    
-    @media(max-width: 455px) {
-        .intro {
-            line-height: 0;
-        }
     }
     
     .hvr-wobble-to-bottom-right:hover,
@@ -165,19 +147,13 @@
     footer {
         position: relative;
         background-color: #343A40;
-        font-size: 20px;
+        font-size: 13px;
         height: 50px;
         width: 100%;
         color: dimgray;
         padding-bottom: 0;
         margin-bottom: 0;
         bottom: 0;
-    }
-    
-    @media(max-width: 455px) {
-        footer {
-            font-size: 13px;
-        }
     }
     
     .icon i {
@@ -187,4 +163,23 @@
     
     .icon i:hover {
         color: #fff;
+    }
+    /* MEDIA QUERIES */
+    
+    @media(min-width: 769px) {
+        .logo {
+            width: 320px;
+        }
+    }
+    
+    @media(min-width: 455px) {
+        .logo {
+            width: 350px;
+        }
+    }
+    
+    @media(min-width: 455px) {
+        footer {
+            font-size: 20px;
+        }
     }
