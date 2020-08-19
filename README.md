@@ -138,6 +138,14 @@ As this was my first project I followed the wireframes that I had created, thank
 * <strong>Result</strong> 🏆: The colours chosen work well for the theme of the site.
 * <strong>Verdict</strong> ✅: This test has passed and the overall colour scheme fits well for the purpose of the site.
 
+### Features:
+
+<strong>Easy navigation - </strong>
+* <strong>Plan</strong> 📝: The plan was create a website easy to navigate.
+* <strong>Implementation</strong> 🏭: I created the web site in just one page and with a fixed navbar at the top, so that, the user can easily click in any section(home, about, projects, hobbies and contact) and jump to the section. Additionally and thanks to the mentor I added a Scroll-behaviour smooth.
+* <strong>Result</strong> 🏆: The result is an enjoyable experience while navigate throughout the site.
+* <strong>Verdict</strong> ✅: This test passed based on the expected behaviour. 
+
 ## Deployment: 🚀
 
 Chinque Portfolio will be developed on GitPod, using git and GitHub to host the repository.
