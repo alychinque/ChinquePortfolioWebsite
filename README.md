@@ -74,23 +74,23 @@ The main goal of this project is to help the site's owner to get hired, also hel
 The theme of this project is a website portfolio, So I chose a geometric image fixed on the background, it has green geometric forms with a dark background that reminds me of the movie **The Matrix**, with that rain falling down green characters and pictograms the "Matrix code".
 
 #### Fonts:
-I chose to use the font **[Space Mono](https://fonts.google.com/specimen/Space+Mono)** because I saw it in a site of a company that teach people to code and I found it amazing. It looks like lines of code.👨‍💻
+I chose to use the font **[Space Mono](https://fonts.google.com/specimen/Space+Mono)** because I saw it in a site of a company that teaches people how to code and I found it amazing. It looks like lines of coding.👨‍💻
 
 #### Icons:
-I used four icons in the about section to illustrate the ways that I delivery my websites which are: fast, intuitive, responsive and dynamic, also I used to icons in the footer that lead the user to GitHub and LinkedIn. The icons are from font-awesome.
+I used four icons in the about section to illustrate the ways that I delivery my websites which are: fast, intuitive, responsive and dynamic, also I used two icons in the footer that lead the user to GitHub and LinkedIn. The icons are from font-awesome.
 
-#### Colors:
-Based in a colors research and using this knowledge was figured out the power of the colors. Color affects your moods, behavior, and thoughts. Your reactions to colors are often deeply personal and rooted in your own experiences. The right combination of colors can increase sales/clients.
+#### Colours:
+After researching about colours and understanding their influences on mood, behavior and thoughts. I have chosen the colours eletric green, gunmetal, cultured and mikado yellow which is a combination os inspirational colours.
 
-- Primary: #01FB01 **'Electric Green'** I chose this colors as a primary color because one of the most positive aspects of green is its reference to inspiration, growth, freshness, safety and hope.
-- Secondary: #343A40 **'Gunmetal'** This color was chosen because it contrasts with the background image and it matches with the primary color.
-- Tertiary: #E9ECEF **'Cultured'** This is a standard color for Jumbotron and almost all sections have this color as a background.
+- Primary: #01FB01 **'Electric Green'** I chose this colours as a primary colour because one of the most positive aspects of green is its reference to inspiration, growth, freshness, safety and hope.
+- Secondary: #343A40 **'Gunmetal'** This colour was chosen because it contrasts with the background image and it matches with the primary colour.
+- Tertiary: #E9ECEF **'Cultured'** This is a standard colour for Jumbotron and almost all sections have this colour as a background.
 - Progress bar: #FFC107 **'Mikado Yellow'** I chose this kind of yellow in the progress bar where I show the percentage of my skills in each area.
 
-![Palette of colors](https://github.com/alychinque/ChinquePortfolioWebsite/blob/master/wireframes/palette.png)
+![Palette of colours](https://github.com/alychinque/ChinquePortfolioWebsite/blob/master/wireframes/palette.png)
 
 #### Background:
-The image that I chose to use fixed in the background of the website is from [FreePik](https://www.freepik.com/). I manually resized the image using a tool called [PhotoPea](https://www.photopea.com/), having accurately sized images reduces the load time of the website.
+The image that is fixed in the website's background was taken from [FreePik](https://www.freepik.com/). I manually resized the image using a tool called [PhotoPea](https://www.photopea.com/), having accurately sized images reduces the load time of the website.
 
 ## Wireframes: 🔧
 For this project, I created wireframes using [Balsamiq Mockups](https://balsamiq.cloud/) and [Proto Prototypes](https://proto.io/). I started by creating some basics wireframes for desktop/mobile on Balsamiq just to have an idea. After that, I built a prototype with more styling.
@@ -109,7 +109,6 @@ For this project, I created wireframes using [Balsamiq Mockups](https://balsamiq
 * <a href="https://developer.mozilla.org/en-US/docs/Web/CSS">CSS</a>  
 
 ### Tools & Libraries:
-
 * <a href="https://git-scm.com/">Git</a>
 * <a href="https://getbootstrap.com/">Bootstrap</a>
 * <a href="https://fontawesome.com/icons?d=gallery">Font-Awesome</a>
@@ -119,13 +118,12 @@ As this was my first project I followed the wireframes that I had created, thank
 
 ## Testing: 🔌
 #### Testing Stories:
-* I realised that the colours I had chose clashed too much in terms of contrast, I then used coolors.co to select a new color scheme and implemented the new colours.
+* I realised that the colours I had chosen clashed too much in terms of contrast, I then used coolors.co to select a new colour scheme and implemented the new colours.
 * I added some inline style in my index.html, then I moved all styles to style.css.
 * I was informed that the owner's website would like to show his abilitilies, I then created a progress bar with the technologies that he knows.
 * I Initially used "pixels" as unit of measurement then I was Informed that "rem" is the right one then I changed the units. 
 
 ### Overall:
-
 <strong>Responsiveness - </strong>
 * <strong>Plan</strong> 📝: I knew that this project needed to be FULLY responsive and mobile friendly therefore the obvious option to use Bootstrap as this HTML Framework I'm most comfortable using. Testing using dev-tools throughout and also a final test of the entire site after completion.
 * <strong>Implementation</strong> 🏭: Throughout writing my HTML code making sure to use appropriate bootstrap class modifiers to provide correct breakpoints for the content. Testing breakpoints was relatively simple thanks to the easy to use Bootstrap, i only really modified a few breakpoints after writing the majority of my HTML.
@@ -139,37 +137,33 @@ As this was my first project I followed the wireframes that I had created, thank
 * <strong>Verdict</strong> ✅: This test has passed and the overall colour scheme fits well for the purpose of the site.
 
 ### Features:
-
 <strong>Easy navigation - </strong>
 * <strong>Plan</strong> 📝: The plan was create a website easy to navigate.
-* <strong>Implementation</strong> 🏭: I created the web site in just one page and with a fixed navbar at the top, so that, the user can easily click in any section(home, about, projects, hobbies and contact) and jump to the section. Additionally and thanks to the mentor I added a Scroll-behaviour smooth.
+* <strong>Implementation</strong> 🏭: I created the web site in just one page and with a fixed navbar at the top, so that, the user can easily click in any section(home, about, projects, hobbies and contact) and jump to the section. I also added a scroll-behavior: smooth, taking advice from my mentor.
 * <strong>Result</strong> 🏆: The result is an enjoyable experience while navigate throughout the site.
 * <strong>Verdict</strong> ✅: This test passed based on the expected behaviour. 
 
 <strong>Form Validation - </strong>
-* <strong>Plan</strong> 📝: During planning for this project I knew that I needed to include some sort of form validation on the contact form. Including the built in ‘required’ attribute in HTML5.
-* <strong>Implementation</strong> 🏭:  During implementation of this feature adding the ‘required’ attribute to the form was very simple and worked as expected. This led me to a solution and the contact fom will not send if a specific hidden input field has content.
+* <strong>Plan</strong> 📝: During planning for this project, I knew that I needed to include some sort of form validation on the contact form. Including the built in ‘required’ attribute in HTML5.
+* <strong>Implementation</strong> 🏭: Adding the required attribute to this form was very simple and worked as expected during the implementation of this feature. The contact form will not be sent if a specific hidden input field has no content.
 * <strong>Result</strong> 🏆:  The feature works as expected after testing.
 * <strong>Verdict</strong> ✅: This test passed based on the expected behaviour.
 
 ## Bugs: 🐞
-
 #### Bugs During Development:
-
-During the development process for this project I was fortunate to not have to battle with many annoying bugs. Listed below are a few issues that i faced and overcame during the course of the project.
+During the development process, for this project I was fortunate to not have to battle with many annoying bugs. Listed below are a few issues that i faced and overcame during the course of the project.
 
 Progress bar       :
-* <strong>Bug</strong> 🕷: The progress bar didn't styled as expected.
+* <strong>Bug</strong> 🕷: The progress bar didn't style as expected.
 * <strong>Fix</strong> 🔧: I found another person with the same problem on slack group.
 * <strong>Verdict</strong> ✅: This bug was squashed thanks to help from the slack group at Code Institute!
 
 Unexpected horizontal scroll for entire page:
 * <strong>Bug</strong> 🕷: A few elements were escaping the boundaries of the website and were causing an unwanted horizontal scroll.
-* <strong>Fix</strong> 🔧: Using Unicorn Revealer (See credits for link) I was easily able to find the offending element and fix accordingly. 
-* <strong>Verdict</strong> ✅: This bug was squashed easily and meant I could continue to progress.
+* <strong>Fix</strong> 🔧: Using Unicorn Revealer (See credits for link) I was able to easily find the offending element and fix accordingly. 
+* <strong>Verdict</strong> ✅: This bug was squashed easily and I could continue to progress.
 
 ## Deployment: 🚀
-
 Chinque Portfolio will be developed on GitPod, using git and GitHub to host the repository.
 
 When deploying Chinque Portfolio using GitHub Pages the following steps were made:
@@ -185,7 +179,6 @@ When deploying Chinque Portfolio using GitHub Pages the following steps were mad
 * Chinque Portfolio website now live on GitHub Pages.
 
 #### Running Chinque Portfolio website Locally
-
 Cloning Chinque Portfolio from GitHub:
 
 * Navigate to <strong>'/alychinque/ChinquePortfolioWebsite'</strong>.
@@ -198,7 +191,6 @@ Cloning Chinque Portfolio from GitHub:
   git clone https://github.com/alychinque/ChinquePortfolioWebsite.git
    ```
 ## Credits: 💳
-
 * <a href="https://www.crazyegg.com/blog/colors-proven-to-boost-sales/">Colour Research</a>
 * <a href="https://coolors.co/">Coolors.co</a>
 * <a href="https://chrome.google.com/webstore/detail/unicorn-revealer/lmlkphhdlngaicolpmaakfmhplagoaln?hl=en-GB">Unicorn Revealer</a>
