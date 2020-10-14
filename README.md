@@ -95,8 +95,7 @@ The image that is fixed in the website's background was taken from [FreePik](htt
 ## Wireframes: 🔧
 For this project, I created wireframes using [Balsamiq Mockups](https://balsamiq.cloud/) and [Proto Prototypes](https://proto.io/). I started by creating some basics wireframes for desktop/mobile on Balsamiq just to have an idea. After that, I built a prototype with more styling.
 #### Check it out 🔍
-**Balsamiq:** [Desktop](https://github.com/alychinque/ChinquePortfolioWebsite/blob/master/wireframes/desktop-wireframe.png"Desktop")/ [Mobile](https://github.com/alychinque/ChinquePortfolioWebsite/blob/master/wireframes/mobile-wireframe.png"Mobile")  
-**Proto:** [Desktop](https://github.com/alychinque/ChinquePortfolioWebsite/blob/master/wireframes/wireframe-desktop.pdf"Desktop.pdf")/ [Mobile](https://github.com/alychinque/ChinquePortfolioWebsite/blob/master/wireframes/wireframe-mobile.pdf"Mobile")  
+**Balsamiq:** [Desktop](https://github.com/alychinque/BrazilianSimon/blob/main/wireframes/brazilian-simon-desktop.png "Desktop")/ [Mobile](https://github.com/alychinque/BrazilianSimon/blob/main/wireframes/brazilian-simon-mobile.png "Mobile")  
 
 ## Features:
 - Easy navigation
